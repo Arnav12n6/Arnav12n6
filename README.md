@@ -1,13 +1,29 @@
-# Hi, I'm Arnav 👋
+<h1 align="center">Hi 👋, I'm Arnav Agrawal</h1>
 
-## Welcome to my GitHub!
+<h3 align="center">
+Computer Science Student | C++ Learner | Future Software Engineer
+</h3>
 
-I'm currently learning:
+---
+
+## 🚀 Currently Learning
 
 - C++
 - Data Structures & Algorithms
+- Object-Oriented Programming
 - Web Development
 
 ---
 
-More coming soon...
+## 🎯 2026 Goals
+
+- ✅ Master C++
+- 🔄 Solve 300+ DSA problems
+- 🔄 Build real-world projects
+- 🔄 Learn Full-Stack Development
+
+---
+
+## 📫 Connect with me
+
+Coming Soon...
