@@ -54,7 +54,7 @@ Projects will appear here as I continue learning and building.
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/Arnav12n6
-- LinkedIn: *(Coming Soon)*
+- LinkedIn: https://www.linkedin.com/in/arnav-agrawal-083921376/
 
 ---
 
