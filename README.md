@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Arnav+Agrawal;Computer+Science+Student;Learning+C%2B%2B;Future+Software+Engineer" alt="Typing SVG" />
+  <img src="./assets/portrait.svg" alt="Animated ASCII Portrait" width="850">
 </p>
 
 <p align="center">
